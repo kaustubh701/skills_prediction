@@ -1,2 +1,2 @@
 # skills_prediction
-I have made the model using OneClassSVM to classify the text if it belong to technical skill class.
+I have made the model using OneClassSVM to classify the text if it belong to technical skill class.The Raw_Skills_Dataset.csv contains about 30k datapoints which contains technical skills and a lot of jargon mixed in.Example_Technical_Skills.csv contains example of technical skills. I predicted the technical skills from raw skill dataset. As in making the model i used NLP sentiment analysis using TFIDF vectorizer.
